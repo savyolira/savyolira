@@ -1,6 +1,6 @@
-### Iae !! Eu sou o Sávyo Lira 👋
+### Olá !! Eu sou o Sávyo Lira 👋
 
-- 🔭 Hoje estou me dedicando apenas aos estudos da Trybe
+- 🔭 Hoje estou me dedicando aos estudos pro Desenvolvimento Web
 - 🌱 Atualmente estou estudando React
 - 😄 Pronouns: ele/dele
 ##
