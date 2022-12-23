@@ -1,8 +1,8 @@
-### Olá !! Eu sou o Sávyo Lira 👋
+### Oi, meu nome é Sávyo Lira,
 
-- 🔭 Hoje estou me dedicando aos estudos pro Desenvolvimento Web
-- 🌱 Atualmente estou estudando React
-- 😄 Pronouns: ele/dele
+- Hoje estou me dedicando aos estudos pro Desenvolvimento Web
+- Atualmente estou estudando React
+- Pronouns: ele/dele
 ##
 <div align="center">
   <a href="https://github.com/savyolira">
