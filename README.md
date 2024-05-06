@@ -1,6 +1,6 @@
 ### Olá, meu nome é Sávyo Lira
 
-## Desenvolvedor Front-end
+# Desenvolvedor Front-end
 
 - 📍 Hoje moro em Teresina/Piaui, Brasil
 - 📚 Sou graduado em Ciências da Computação
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savyolira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Minhas Habilidades:
+# Minhas Habilidades:
 <div style="display: inline_block"><br>
   <img align="center" alt="Savyo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Savyo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
